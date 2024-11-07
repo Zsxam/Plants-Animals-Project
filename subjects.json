@@ -1,0 +1,12 @@
+{
+    "Plants": [
+        {"name": "Mawar", "info": "Bunga yang indah dan berwarna-warni."},
+        {"name": "Pohon Kelapa", "info": "Pohon tinggi dengan buah kelapa."},
+        {"name": "Anggrek", "info": "Tumbuhan berbunga dengan banyak jenis."}
+    ],
+    "Animals": [
+        {"name": "Singa", "info": "Hewan buas dengan kekuatan besar."},
+        {"name": "Gajah", "info": "Hewan darat terbesar dengan belalai panjang."},
+        {"name": "Kupu-kupu", "info": "Serangga dengan sayap berwarna-warni."}
+    ]
+}
