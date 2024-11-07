@@ -1,4 +1,5 @@
-nama = input("Masukkan nama anda: ")
-tahun_lahir = int(input("Masukkan tahun lahir anda: "))
-umur = 2024 - tahun_lahir
-print(f"Selamat datang, {nama}! Umur anda adalah {umur}")
+print("Menghitung Luas Segitiga")
+Alas = int(input("Masukkan Alas: "))
+Tinggi = int(input("Masukkan Tinggi: "))
+Luas =  Alas * Tinggi/2
+print(f"Luas segitiga tersebut adalah", {Luas})
