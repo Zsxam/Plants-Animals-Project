@@ -26,3 +26,7 @@ def login():
     print("Anda telah keluar dari sistem login")
 
 login()
+
+nama = input("Masukkan nama: ")
+print(f"Hallo {nama}")
+
