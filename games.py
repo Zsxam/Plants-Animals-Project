@@ -1,0 +1,4 @@
+def games():
+    pass
+
+games()
